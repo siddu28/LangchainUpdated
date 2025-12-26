@@ -6,3 +6,5 @@ langchain-google-genai
 langgraph
 ipykernel
 langchain-core
+arxiv
+wikipeida
